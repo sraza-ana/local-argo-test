@@ -9,7 +9,7 @@ spec:
   project: default
   source:
   
-    repoURL: https://github.com/sraza-ana/fastapi-k8s-manifests
+    repoURL: https://github.com/sraza-ana/local-argo-test
     targetRevision: HEAD
     path: manifests
 
