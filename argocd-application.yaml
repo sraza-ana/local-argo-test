@@ -9,7 +9,7 @@ spec:
   project: default
   source:
   
-    repoURL: https://github.com/YOUR-USERNAME/fastapi-k8s-manifests
+    repoURL: https://github.com/SayeemRaza/fastapi-k8s-manifests
     targetRevision: HEAD
     path: manifests
 
