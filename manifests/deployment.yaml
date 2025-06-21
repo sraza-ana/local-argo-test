@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: fastapi
-        image: mycluster-registry:5000/fastapi-app:v1.0.0
+        image: k3d-myregistry:5000/fastapi-app:v1.0.0
         ports:
         - containerPort: 8000
           name: http
